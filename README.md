@@ -1,4 +1,3 @@
-# SaaS-Cohort-Retention-CLTV-Analysis
 # 📊 SaaS Cohort Retention & Customer Lifetime Value (CLTV) Analysis
 
 A professional Data Analytics project focused on understanding customer retention patterns and estimating Customer Lifetime Value (CLTV) using transactional data. This project applies data cleaning, exploratory data analysis, cohort analysis, customer segmentation, and business intelligence techniques to generate actionable insights for SaaS and E-commerce businesses.
