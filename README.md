@@ -143,6 +143,8 @@ SaaS-Cohort-Retention-CLTV-Analysis/
 ## 📌 Status
 
 🟢 Week 1 — Day 1: Project Setup (Completed)
+Objectives
+
 
 ---
 
