@@ -140,10 +140,15 @@ SaaS-Cohort-Retention-CLTV-Analysis/
 
 ---
 
-## 📌 Status
+## 📊 Project Progress
 
-🟢 Week 1 — Day 1: Project Setup (Completed)
-Objectives
+| Week | Day | Status |
+|------|-----|--------|
+| Week 1 | Day 1 | ✅ Project Setup |
+| Week 1 | Day 2 | ✅ Data Loading & Initial Exploration |
+| Week 1 | Day 3 | ✅ Data Cleaning & Preprocessing |
+| Week 1 | Day 4 | ⏳ Pending |
+| Week 1 | Day 5 | ⏳ Pending |
 
 
 ---
