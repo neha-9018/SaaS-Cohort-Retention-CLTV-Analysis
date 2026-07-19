@@ -143,13 +143,22 @@ SaaS-Cohort-Retention-CLTV-Analysis/
 ## 📊 Project Progress
 
 | Week | Day | Status |
-|------|-----|--------|
+|------|------|--------|
 | Week 1 | Day 1 | ✅ Project Setup |
 | Week 1 | Day 2 | ✅ Data Loading & Initial Exploration |
 | Week 1 | Day 3 | ✅ Data Cleaning & Preprocessing |
-| Week 1 | Day 4 | ⏳ Pending |
-| Week 1 | Day 5 | ⏳ Pending |
-
+| Week 1 | Day 4 | ✅ Feature Engineering & Data Validation |
+| Week 1 | Day 5 | ✅ Exploratory Data Analysis (EDA) |
+| Week 2 | Day 1 (Day 6) | ✅ RFM Analysis |
+| Week 2 | Day 2 (Day 7) | ⏳ Customer Segmentation |
+| Week 2 | Day 3 (Day 8) | ⏳ Cohort Analysis |
+| Week 2 | Day 4 (Day 9) | ⏳ Retention Rate Analysis |
+| Week 2 | Day 5 (Day 10) | ⏳ Customer Lifetime Value (CLTV) |
+| Week 3 | Day 1 (Day 11) | ⏳ Churn Analysis |
+| Week 3 | Day 2 (Day 12) | ⏳ Predictive Analytics |
+| Week 3 | Day 3 (Day 13) | ⏳ Power BI Dashboard |
+| Week 3 | Day 4 (Day 14) | ⏳ Business Insights |
+| Week 3 | Day 5 (Day 15) | ⏳ Documentation & GitHub Portfolio |
 
 ---
 
