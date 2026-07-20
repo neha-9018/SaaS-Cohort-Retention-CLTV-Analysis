@@ -150,7 +150,7 @@ SaaS-Cohort-Retention-CLTV-Analysis/
 | Week 1 | Day 4 | ✅ Feature Engineering & Data Validation |
 | Week 1 | Day 5 | ✅ Exploratory Data Analysis (EDA) |
 | Week 2 | Day 1 (Day 6) | ✅ RFM Analysis |
-| Week 2 | Day 2 (Day 7) | ⏳ Customer Segmentation |
+| Week 2 | Day 2 (Day 7) | ✅ Customer Segmentation |
 | Week 2 | Day 3 (Day 8) | ⏳ Cohort Analysis |
 | Week 2 | Day 4 (Day 9) | ⏳ Retention Rate Analysis |
 | Week 2 | Day 5 (Day 10) | ⏳ Customer Lifetime Value (CLTV) |
