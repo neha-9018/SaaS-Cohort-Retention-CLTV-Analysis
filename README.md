@@ -153,7 +153,7 @@ SaaS-Cohort-Retention-CLTV-Analysis/
 | Week 2 | Day 2 (Day 7) | ✅ Customer Segmentation |
 | Week 2 | Day 3 (Day 8) | ✅ Cohort Analysis |
 | Week 2 | Day 4 (Day 9) |✅ Retention Rate Analysis |
-| Week 2 | Day 5 (Day 10) | ⏳ Customer Lifetime Value (CLTV) |
+| Week 2 | Day 5 (Day 10) | ✅ Customer Lifetime Value (CLTV) |
 | Week 3 | Day 1 (Day 11) | ⏳ Churn Analysis |
 | Week 3 | Day 2 (Day 12) | ⏳ Predictive Analytics |
 | Week 3 | Day 3 (Day 13) | ⏳ Power BI Dashboard |
